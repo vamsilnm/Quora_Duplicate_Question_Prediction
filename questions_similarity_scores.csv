@@ -1,0 +1,6 @@
+question_1,question_2,similarity_score
+['question1'],['question2'],0.0
+"['step', 'step', 'guide', 'invest', 'share', 'market', 'india']","['step', 'step', 'guide', 'invest', 'share', 'market']",0.0
+"['story', 'kohinoor', 'kohinoor', 'diamond']","['would', 'happen', 'indian', 'government', 'stole', 'kohinoor', 'kohinoor', 'diamond', 'back']",0.0
+"['increase', 'speed', 'internet', 'connection', 'using', 'vpn']","['internet', 'speed', 'increased', 'hacking', 'dns']",0.0
+"['mentally', 'lonely', 'solve']","['find', 'remainder', 'math2324math', 'divided', '2423']",0.0
